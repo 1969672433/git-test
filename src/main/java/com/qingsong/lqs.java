@@ -13,5 +13,6 @@ public class lqs {
         System.out.println("master three");
         System.out.println("hot-fix two");
         System.out.println("master four");
+        System.out.println("pull test");
     }
 }
