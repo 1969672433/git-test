@@ -7,5 +7,7 @@ package com.qingsong;
 public class lqs {
     public static void main(String[] args) {
         System.out.println("master one");
+        System.out.println("master two");
+
     }
 }
