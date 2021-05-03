@@ -15,5 +15,6 @@ public class lqs {
         System.out.println("master four");
         System.out.println("pull test");
         System.out.println("gitee commit");
+        System.out.println("gitee commit1");
     }
 }
