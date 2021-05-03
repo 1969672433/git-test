@@ -14,5 +14,6 @@ public class lqs {
         System.out.println("hot-fix two");
         System.out.println("master four");
         System.out.println("pull test");
+        System.out.println("gitee commit");
     }
 }
