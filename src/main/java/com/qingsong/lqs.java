@@ -9,5 +9,6 @@ public class lqs {
         System.out.println("master one");
         System.out.println("master two");
 
+        System.out.println("hot-fix one");
     }
 }
