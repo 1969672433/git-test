@@ -10,5 +10,6 @@ public class lqs {
         System.out.println("master two");
 
         System.out.println("hot-fix one");
+        System.out.println("hot-fix two");
     }
 }
